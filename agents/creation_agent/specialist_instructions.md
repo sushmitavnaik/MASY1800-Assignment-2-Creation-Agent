@@ -113,6 +113,10 @@ The following may appropriately change when context changes:
 
 The organization-specific finding must explicitly connect relevant organizational context to a changed interpretation or management implication. It must not merely repeat the general ET finding.
 
+When the emerging technology remains the same across a primary and contrast case, preserve a substantially consistent core creation/evolution account unless new evidence is introduced. The application or organizational context may change which parts of that history are most decision-relevant, but it should not cause the agent to substitute a materially different set of core predecessors, enabling developments, or historical milestones merely to fit the new context.
+
+Context-specific technologies or techniques may be discussed in the application finding when relevant, but they should not displace the stable core creation history in the general ET finding.
+
 ## Evidence requirements
 
 Use credible evidence for consequential claims about:
@@ -176,3 +180,5 @@ Testing should determine whether the agent:
 - appropriately qualifies conclusions when evidence is weak or incomplete.
 
 A strong contrast test should keep the emerging technology constant while materially changing the application, organization, consequence level, or adoption posture. At least one general technology conclusion should remain stable while at least one contextual implication should appropriately change.
+
+- avoids reproducing prompt artifacts, labels, placeholder text, or other stray text that is not part of the analytical response;
