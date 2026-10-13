@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "Assist accounts-payable staff in reviewing invoice exceptions, comparing invoice details with contracts, and drafting recommendations for human approval.",
+  "organization": "Hypothetical mid-sized real estate property management company",
+  "industry_sector": "Real estate property management",
+  "business_need": "Reduce manual invoice review effort, improve consistency, and detect potential billing discrepancies.",
+  "users_stakeholders": "Accounts-payable employees, property managers, vendors, finance leadership, and compliance personnel",
+  "adoption_posture": "Moderate, with required human review of financial decisions",
+  "capabilities_constraints": "Existing invoice management software, limited automation budget, inconsistent vendor documentation, data integration challenges, and required human payment approval.",
+  "risk_consequence_context": "Incorrect payment recommendations, financial losses, vendor disputes, confidential financial information, and auditability requirements.",
+  "management_question": "What kind of innovation does generative AI represent in invoice exception processing, and how could it create or displace value within the property management company's existing operating and business model?",
+  "time_horizon": "12 to 24 months",
+  "additional_context": "This is a hypothetical teaching case. The company primarily earns revenue through property management services rather than invoice processing itself. The proposed application assists staff but does not autonomously authorize payments. No quantified savings, revenue changes, or competitor adoption claims have been verified. Distinguish supported general technological evidence from hypothetical organization-specific assumptions."
+}

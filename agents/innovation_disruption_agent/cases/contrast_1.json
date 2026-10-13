@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "Automate substantial portions of invoice processing, exception triage, contract comparison, and client reporting, with human review for high-risk financial decisions.",
+  "organization": "Hypothetical financial and accounting business process outsourcing provider",
+  "industry_sector": "Finance and accounting outsourcing",
+  "business_need": "Improve service delivery efficiency while responding to changing customer expectations and protecting the organization's competitive position.",
+  "users_stakeholders": "Operations employees, outsourcing clients, finance leadership, sales teams, compliance personnel, and technology vendors",
+  "adoption_posture": "Aggressive experimentation with human oversight for consequential financial decisions",
+  "capabilities_constraints": "Existing labor-intensive invoice processing contracts, legacy client workflows, pricing commitments, data integration requirements, and employee reskilling needs.",
+  "risk_consequence_context": "Potential service errors, contractual liability, client attrition, employee displacement, pricing pressure, and erosion of traditional service revenues.",
+  "management_question": "What kind of innovation does generative AI represent in outsourced invoice processing, and how could it create, displace, or reshape value within the provider's existing business model?",
+  "time_horizon": "12 to 24 months",
+  "additional_context": "This is a hypothetical teaching case. The organization earns a substantial share of revenue from invoice processing services delivered through labor-intensive workflows. Consider whether AI creates new service opportunities while potentially reducing demand for traditional processing activities. Do not assume existential disruption or invent quantified revenue impacts."
+}
