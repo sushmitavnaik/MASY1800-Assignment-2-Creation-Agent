@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "Internal knowledge assistant that retrieves authorized company policies and procedures, summarizes relevant information, and provides source-linked answers to employee questions",
+  "organization": "Hypothetical large financial-services company",
+  "industry_sector": "Financial services",
+  "business_need": "Reduce employee time spent searching internal policies and procedures while improving access to approved organizational knowledge",
+  "users_stakeholders": "Employees, compliance officers, legal teams, IT, information security, risk management, and senior leadership",
+  "adoption_posture": "Conservative and risk-aware",
+  "capabilities_constraints": "Sensitive internal information, legacy information systems, strict access controls, compliance requirements, inconsistent documentation, and limited tolerance for unsupported policy answers",
+  "risk_consequence_context": "Incorrect policy interpretations, unsupported recommendations, unauthorized information disclosure, compliance failures, reputational damage, and employee overreliance on AI-generated answers",
+  "management_question": "Is generative AI incremental, breakthrough, or potentially Promethean, and how much should its broader technological significance influence the decision to evaluate an internal employee knowledge assistant?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "Hypothetical teaching case. The organization is considering a bounded internal knowledge-assistance application rather than replacing professional compliance judgment. The existence of broad societal potential does not automatically justify deployment. Distinguish demonstrated capabilities from speculative future transformation, and evaluate evidence both for and against a potentially Promethean classification. Do not assume measurable productivity gains, implementation readiness, or regulatory compliance without evidence."
+}

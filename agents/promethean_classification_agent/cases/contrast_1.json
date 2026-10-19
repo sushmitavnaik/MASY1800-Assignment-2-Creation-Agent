@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "AI-assisted scientific literature synthesis, research hypothesis generation, and experimental planning support, with researchers responsible for verification and final scientific decisions",
+  "organization": "Hypothetical interdisciplinary scientific research organization",
+  "industry_sector": "Scientific research and development",
+  "business_need": "Improve research knowledge discovery and help scientists identify promising hypotheses and research directions",
+  "users_stakeholders": "Scientists, research directors, laboratory personnel, research ethics reviewers, funding partners, and technology teams",
+  "adoption_posture": "Aggressive experimentation with scientific oversight",
+  "capabilities_constraints": "Access to scientific publications, specialized researchers, computational resources, experimental validation capacity, limited research budgets, and requirements for reproducibility",
+  "risk_consequence_context": "Unsupported scientific claims, fabricated references, misleading hypotheses, wasted research resources, irreproducible results, and potential research integrity concerns",
+  "management_question": "Is generative AI incremental, breakthrough, or potentially Promethean, and how should its broad technological significance influence an organization's evaluation of AI-assisted scientific discovery?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "Hypothetical teaching case. The organization is exploring the use of generative AI to support scientific discovery rather than replacing scientific verification. Distinguish demonstrated language-model capabilities from independently validated scientific breakthroughs and speculative civilization-scale outcomes. Evaluate the strongest evidence for and against a potentially Promethean classification. Do not assume AI-generated hypotheses are scientifically valid merely because they are plausible or fluent."
+}
