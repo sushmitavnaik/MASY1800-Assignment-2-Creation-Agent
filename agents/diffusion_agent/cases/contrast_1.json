@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "Internal knowledge assistant that retrieves company engineering documentation, product specifications, and technical procedures, summarizes relevant information, and provides source-linked answers to employees",
+  "organization": "Hypothetical AI-focused software company",
+  "industry_sector": "Enterprise software and artificial intelligence",
+  "business_need": "Reduce time engineers and product teams spend locating technical information and improve knowledge sharing across rapidly evolving products",
+  "users_stakeholders": "Software engineers, product managers, technical writers, IT teams, security specialists, and engineering leadership",
+  "adoption_posture": "Aggressive early adopter; willing to experiment with emerging AI capabilities and tolerate some uncertainty in low-consequence internal workflows",
+  "capabilities_constraints": "Strong internal AI and software engineering capabilities, modern cloud infrastructure, centralized documentation platforms, agile development processes, rapid experimentation practices, and capacity to evaluate model behavior. Documentation changes frequently and some technical content is confidential.",
+  "risk_consequence_context": "Incorrect technical information may cause development delays, software defects, or employee confusion. Access controls, confidential intellectual property, and source accuracy remain important, but the selected internal documentation workflow generally has lower regulatory consequences than financial-services policy interpretation.",
+  "management_question": "How far have generative AI and retrieval-grounded internal knowledge assistants diffused generally and among comparable software companies, what accelerates or inhibits diffusion, and what timing implications follow for an aggressive early-adopter organization over the next 12 months?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "Hypothetical contrast case. Keep the general emerging-technology diffusion assessment consistent with the primary case where the same evidence applies. Evaluate the diffusion of internal technical knowledge assistants in the software sector separately from general AI adoption. Apply Rogers' five perceived innovation characteristics and consider change agents, opinion leaders, ecosystem factors, standards, and complementary assets. Do not infer sector-wide diffusion from isolated company examples. Explain how organizational capabilities, lower consequence levels, and an aggressive adoption posture affect timing implications. Identify at least one weak or insufficiently supported diffusion claim. Do not make the final adoption decision."
+}

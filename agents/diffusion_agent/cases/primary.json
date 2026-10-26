@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "Internal knowledge assistant that retrieves authorized company policies and procedures, summarizes relevant information, and provides source-linked answers to employee questions",
+  "organization": "Hypothetical large financial-services company",
+  "industry_sector": "Financial services",
+  "business_need": "Reduce employee time spent searching internal policies while maintaining reliable access to approved organizational knowledge",
+  "users_stakeholders": "Employees, compliance officers, legal teams, IT, information security, risk management, and senior leadership",
+  "adoption_posture": "Conservative and risk-aware; prefers demonstrated peer results and robust controls before widespread deployment",
+  "capabilities_constraints": "Sensitive internal data, legacy systems, inconsistent documentation, strict access controls, limited tolerance for unsupported answers, and a need for evidence of benefits compared with conventional enterprise search",
+  "risk_consequence_context": "Incorrect interpretations of policies, outdated source documents, unauthorized disclosure, regulatory consequences, and employee overreliance on generated answers",
+  "management_question": "How far have generative AI and internal employee knowledge assistants diffused generally and among comparable financial institutions, what accelerates or inhibits diffusion, and what timing implications follow for this risk-aware organization over the next 12 months?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "Hypothetical teaching case. Use Rogers' five innovation characteristics and adopter categories. Distinguish general use of generative AI from deployment of retrieval-grounded knowledge assistants in comparable financial-services organizations. Do not assume that general AI adoption statistics establish this application's diffusion stage. Examine change agents, opinion leaders, standards, infrastructure, and complementary assets. Identify at least one diffusion claim that is too weak, geographically narrow, or industry-specific to support a confident stage assessment. Do not make the final adoption decision."
+}
